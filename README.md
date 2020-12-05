@@ -16,9 +16,9 @@ Theoretical project: The goal is to reward loyal StarWars fans. To do this a bin
 
 #### Executive summary / Problem statment
 
-StarWars corporate (Disney) wants to have an overwhelming turnout of fans for the Comic Con 2021.  
+StarWars Corporate (Disney) wants to have an overwhelming turnout of fans for the Comic Con 2021.  
 - To achieve this Disney is sending reward their fans on the  subbredit StarWars, offering a secret $15 discount off ComicCon 2021 entry fee.  
-- Problem: The promotion is only for participants on the StarWars subreddit, therefore corporate want to make sure that only StarWars fans receive this promotions. (and not Trekies)
+- Problem: The promotion is only for participants on the StarWars subreddit, therefore corporate want to make sure that only StarWars fans receive this promotions.
 
 #### Problem Statment:
 
