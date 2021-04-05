@@ -1,4 +1,4 @@
-# Subreddit Classification
+# Subreddit Classification for a targeted marketing campaign
 <hr>
 This project uses NPL to create a binary classification model implemented on subreddits for a targeted marketing campaign. 
 <br><br>
